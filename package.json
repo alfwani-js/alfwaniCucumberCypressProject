@@ -13,7 +13,7 @@
   "keywords": [
     "cypress"
   ],
-  "author": "Anna",
+  "author": "Alfwani",
   "license": "ISC",
   "devDependencies": {
     "@babel/plugin-transform-class-properties": "^7.23.3",
